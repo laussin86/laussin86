@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, 🔭 I’m currently working on house price prediction project that i am almost done. This project help to learn a lot new skills lie webscraping, build a CNN and MLP(mutli-layer percepton), manipulate images with python code using OpenCV. 🌱 I’m currently learning the deployment part of my project through a cloud platform. Outside of that, I am a payroll specialist who loves working with numbers, good problem solver and like open-ended project. 📫 How to reach me: via my linkedin page. you can find the link in my profile and it will be my pleasure to connect with you. 
 
 <!--
 **laussin86/laussin86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
