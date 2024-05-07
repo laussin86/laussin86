@@ -10,6 +10,7 @@ SQL Querying & Database Management
 Statistical Analysis & Hypothesis Testing
 Data Modeling & Structure Design
 Technical Documentation & Presentation
+
 🚀 Highlights:
 
 Led successful BI implementations, enabling stakeholders to make data-driven decisions and drive business growth.
