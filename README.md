@@ -1,4 +1,4 @@
-###📊 Data Analyst | 🛠️ BI Expert | 💻 SQL Ninja
+###📊 Data Analyst | 🛠️ Excel and BI Expert | 💻 SQL Ninja
 
 Passionate data analyst with expertise in transforming complex datasets into actionable insights. Proficient in leveraging tools like Tableau and Power BI to visualize data and drive decision-making. Experienced in data modeling, SQL querying, and statistical analysis. Skilled communicator adept at presenting technical findings to both technical and non-technical audiences. This portofolio is some project i worked on my own.
 
